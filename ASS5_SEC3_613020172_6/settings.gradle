@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ASS5_SEC3_613020172_6"
